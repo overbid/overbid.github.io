@@ -1,5 +1,5 @@
 {{ 'now' | date: "%Y" }}
-{{ site.time | date: '%Y' | minus:1977 }}
+{{ site.time | date: '%Y' | minus:site.birth }}
 
 ## Welcome to GitHub Pages
 
