@@ -1,5 +1,5 @@
 {{ 'now' | date: "%Y" }}
-{{ time_ago_in_words(Time.now - 15.hours) }}
+{{ site.time | date: '%Y' | minus:1977 }}
 
 ## Welcome to GitHub Pages
 
