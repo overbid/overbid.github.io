@@ -1,5 +1,5 @@
 {{ 'now' | date: "%Y" }}
-{{ ('now' | date: "%Y") - 1977 }}
+{{ 'now' | date: "%Y-1977" }}
 
 ## Welcome to GitHub Pages
 
