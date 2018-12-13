@@ -23,6 +23,7 @@
 * Phone Number: [+66813976909](tel:+66813976909)
 
 ## Work Experience
+
 ***
 ### 2017-2018: People Plus Software
 My role is consult (~50 people).
@@ -36,8 +37,8 @@ I do.
 * Create docker image (PHP with Oracle Instant Client).
 * Configuring a Web Server with sercurity focus (nginx or Apache).
 * Create complicate deploy script (Use multi PHP version via PHP-FPM for old projects).
-***
 
+***
 ### 2014-2016: Guru Square (Siam Guru)
 My role is lead developer. (~15 people)
 * ACCS VAA (Air Cargo Communities Systems of Suvarnabhumi VAA - http://vaa.slogis.com)
@@ -50,37 +51,37 @@ My role is lead developer. (~15 people)
     * MySQL
 * The official site of Tourism Authority of Thailand (https://www.tourismthailand.org/): Typo3
 * Official Thailand Convention & Exhibition Bureau (https://www.businesseventsthailand.com/): Typo3
-***
 
+***
 ### 2013: Single Solution
 My role is developer (One man team). All is dating site and all Drupal.
 * https://www.meetnlunch.com/
 * https://hq.meetnlunch.com/ - CRM build on CCK and View only!
 * http://available.dating/
 * http://iselectdating.com/ - Dating site on ton of module.
-***
 
+***
 ### 2012: AIS
 My role is system analyse (~40 people).
 *  http://www.ais.co.th/eservice.html
     * Spring, Struts, Hibernate
     * MySQL, Oracle, DBII and finaly is Oracle
-***
 
+***
 ### 2011 Cake Child Care
 My role is developer (One man team).
 * CRM (http://cakechildcare.com): Drupal with CiviCRM
-***
 
+***
 ### 2010: Ocean Group
 My role is developer (One man team).
 * Warehouse System (http://ocg.selfip.net): Drupal
-***
 
+***
 ### 2009: Blastocyst Clinic of Siriraj Hospital
 My role is developer (One man team). Used Dotnetnuke and C# .NET.
-***
 
+***
 ### 2007-2008: Kasetsart University
 * Disaster Prevention and Mitigation System of Department of Disaster Prevention and Mitigation (Faculty of Engineer). My role was system analyst (~10).
     * Java EE
@@ -90,25 +91,25 @@ My role is developer (One man team). Used Dotnetnuke and C# .NET.
 
 * Risk Estimate System of Nation Cancer Institute (Faculty of Science). My role was Project Manager (~10).
     * Dotnetnuke and C# NET
-***
 
+***
 ### 2006: Isuzu Andaman
 My role is developer (One man team)
 * Account System: Worked with AS400, DBII, COBOL and PHP for SOAP.
-***
 
+***
 ### 2005: Phuket Immigration 
 My role is developer (One man team)
 * Hotel check-in/check-out system by immigration law
     * C# .NET
-***
 
+***
 ### 2003: UBC
 My role is developer (One man team)
 * Membership System
     * VB
-***
 
+***
 ## Another Work
 * http://vijittresort.com
 * http://icstravelgroup.com
