@@ -16,7 +16,7 @@
 ## About Me
 
 * Age: {{ site.time | date: '%Y' | minus:site.birth }} years
-* In Love with Drupal: {{ site.time | date: '%Y' | minus:site.drupal_found }} years
+<!-- * In Love with Drupal: {{ site.time | date: '%Y' | minus:site.drupal_found }} years -->
 * Github: [overbid](https://github.com/overbid/overbid.github.io)
 * Drupal.org: [overbid](https://www.drupal.org/u/overbid)
 * Email: [overbid@gmail.com](mailto:overbid@gmail.com)
@@ -25,7 +25,7 @@
 ## Work Experience
 
 ### 2017-2018: People Plus Software
-My role is consult (~50).
+My role is consult (~50 people).
 * HCM: nginx, Oracle database, PHP, Laravel and Vue
 * ESS (https://essonline.peopleplus.co.th): Apache, Oracle database, PHP, Laravel and Vue
 
@@ -38,14 +38,14 @@ I do.
 * Create complicate deploy script (Use multi PHP version via PHP-FPM for old projects).
 
 ### 2014-2016: Guru Square (Siam Guru)
-My role is lead developer. (~15)
+My role is lead developer. (~15 people)
 * ACCS VAA (Air Cargo Communities Systems of Suvarnabhumi VAA - http://vaa.slogis.com)
-    * Drupal as RESTful Web Services API
-    * AngularJS 1
+    * RESTful Web Services API
+    * AngularJS
     * MySQL
 * ACCS (Air Cargo Communities Systems of Suvarnabhumi - http://cms.slogis.com, http://tmo.slogis.com, http://oga.slogis.com)
-    * Java (SOAP): Spring 3, MyBatis 2
-    * PHP: Yii 1, Bootstrap 2, Knockout
+    * Java (SOAP): Spring, MyBatis
+    * PHP: Yii, Bootstrap, Knockout
     * MySQL
 * The official site of Tourism Authority of Thailand (https://www.tourismthailand.org/): Typo3
 * Official Thailand Convention & Exhibition Bureau (https://www.businesseventsthailand.com/): Typo3
@@ -58,9 +58,9 @@ My role is developer (One man team). All is dating site and all Drupal.
 * http://iselectdating.com/ - Dating site on ton of module.
 
 ### 2012: AIS
-My role is system analyse (~40).
+My role is system analyse (~40 people).
 *  http://www.ais.co.th/eservice.html
-    * Spring 3, Struts 2, Hibernate 4
+    * Spring, Struts, Hibernate
     * MySQL, Oracle, DBII and finaly is Oracle
 
 ### 2011 Cake Child Care
@@ -99,6 +99,6 @@ My role is developer (One man team)
 * Membership System
     * VB
 
-## Another Work with Drupal
+## Another Work
 * http://vijittresort.com
 * http://icstravelgroup.com
