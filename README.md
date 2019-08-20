@@ -28,7 +28,7 @@
 ***
 ### 2019: Freelance
 * Devops for cleaning services company in Singapore. Used GCP, Firebase, Postgres, Go.
-* Devops for food services company in Singapore. Used Azure, MySQL, PHP.
+* Devops for food services company in Singapore. Used Azure, MySQL, Python.
 
 ***
 ### 2017-2018: People Plus Software
