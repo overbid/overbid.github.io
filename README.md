@@ -1,5 +1,6 @@
 - [About Me](#about-me)
 - [Work Experience](#work-experience)
+  - [2019: Freelance](#2019-freelance)
   - [2017-2018: People Plus Software](#2017-2018-people-plus-software)
   - [2014-2016: Guru Square (Siam Guru)](#2014-2016-guru-square-siam-guru)
   - [2013: Single Solution](#2013-single-solution)
@@ -17,12 +18,17 @@
 
 * Age: {{ site.time | date: '%Y' | minus:site.birth }} years
 <!-- * In Love with Drupal: {{ site.time | date: '%Y' | minus:site.drupal_found }} years -->
-* Github: [overbid](https://github.com/overbid/overbid.github.io)
-* Drupal.org: [overbid](https://www.drupal.org/u/overbid)
+* Github: [overbid](https://github.com/overbid)
+<!-- * Drupal.org: [overbid](https://www.drupal.org/u/overbid) -->
 * Email: [overbid@gmail.com](mailto:overbid@gmail.com)
 * Phone Number: [+66813976909](tel:+66813976909)
 
 ## Work Experience
+
+***
+### 2019: Freelance
+* Devops for cleaning services company in Singapore. Used GCP, Firebase, Postgres, Go.
+* Devops for food services company in Singapore. Used Azure, MySQL, PHP.
 
 ***
 ### 2017-2018: People Plus Software
