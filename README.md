@@ -15,7 +15,7 @@
 
 ## About Me
 
-* Age: {{ site.time | date: '%Y' | minus:site.birth }} years {{ site.time  | date: '%Y' }}
+* Age: {{ site.time | date: '%Y' | minus:site.birth }} years
 <!-- * In Love with Drupal: {{ site.time | date: '%Y' | minus:site.drupal_found }} years -->
 * Github: [overbid](https://github.com/overbid/overbid.github.io)
 * Drupal.org: [overbid](https://www.drupal.org/u/overbid)
