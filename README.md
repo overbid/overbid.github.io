@@ -30,7 +30,7 @@
 ### 2019-2520: Freelance
 * Devops for cleaning services company in Singapore. Used GCP, Firebase, Postgres, Go.
 * Devops for food services company in Singapore. Used Azure, MySQL, Python.
-* [Jobmars](http://jobmars.eventpass.co/account/login): All inside containers. Nginx, PHP, Laravel and Vue
+* [Jobmars](http://jobmars.eventpass.co/account/login): Find staff for event organizers. All inside containers. Nginx, PHP, Laravel and Vue
 
 ***
 ### 2017-2018: People Plus Software
