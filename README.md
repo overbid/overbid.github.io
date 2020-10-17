@@ -1,7 +1,7 @@
 
 [About Me](#about-me)
 - [Work Experience](#work-experience)
-  - [2019-2020: Freelance](#2019-2520-freelance)
+  - [2019-2020: Freelance](#2019-2020-freelance)
   - [2017-2018: People Plus Software](#2017-2018-people-plus-software)
   - [2014-2016: Guru Square (Siam Guru)](#2014-2016-guru-square-siam-guru)
   - [2013: Single Solution](#2013-single-solution)
@@ -27,7 +27,7 @@
 ## Work Experience
 
 ***
-### 2019-2520: Freelance
+### 2019-2020: Freelance
 * Devops for cleaning services company in Singapore. Used GCP, Firebase, Postgres, Go.
 * Devops for food services company in Singapore. Used Azure, MySQL, Python.
 * [Jobmars](http://jobmars.eventpass.co/account/login): Find staff for event organizers. All inside containers. Nginx, PHP, Laravel and Vue
