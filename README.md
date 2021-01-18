@@ -1,7 +1,8 @@
 
 [About Me](#about-me)
 - [Work Experience](#work-experience)
-  - [2019-2020: Freelance](#2019-2020-freelance)
+  - [2020: Medcuty](#2020-Medcuty)
+  - [2019: Freelance](#2019-2020-freelance)
   - [2017-2018: People Plus Software](#2017-2018-people-plus-software)
   - [2014-2016: Guru Square (Siam Guru)](#2014-2016-guru-square-siam-guru)
   - [2013: Single Solution](#2013-single-solution)
@@ -27,9 +28,15 @@
 ## Work Experience
 
 ***
-### 2019-2020: Freelance
-* Devops for cleaning services company in Singapore. Used GCP, Firebase, Postgres, Go.
-* Devops for food services company in Singapore. Used Azure, MySQL, Python.
+
+## 2020: Medcuty
+* Developer in Bumrungrad hospital's Keyoniq project that receive information for lab result and questionnaire to consulting doctor for health of clients. This use .NET core, Angular, SQL Server, MongoDB and Azure Cloud.
+* DevOps in Princ Health Care. Migrating system from iNET to Huawei Cloud.
+* Investigate problems of Centric system (HIS) - Node, React, Mongodb
+
+### 2019: Freelance
+* Devops and consultant for cleaning services company in Singapore. Used GCP, Firebase, Postgres, Go.
+* Devops and consultant for food delivery services company in Singapore. Used Azure, MySQL, Python.
 * [Jobmars](http://jobmars.eventpass.co/account/login): Find staff for event organizers. All inside containers. Nginx, PHP, Laravel and Vue
 
 ***
