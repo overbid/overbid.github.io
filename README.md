@@ -1,8 +1,9 @@
 
 [About Me](#about-me)
 - [Work Experience](#work-experience)
-  - [2020: Medcuty](#2020-Medcuty)
-  - [2019: Freelance](#2019-2020-freelance)
+  - [2020-Present: Aigen](#2020-present-aigen)
+  - [2020: Medcuty](#2020-medcuty)
+  - [2019: Freelance](#2019-freelance)
   - [2017-2018: People Plus Software](#2017-2018-people-plus-software)
   - [2014-2016: Guru Square (Siam Guru)](#2014-2016-guru-square-siam-guru)
   - [2013: Single Solution](#2013-single-solution)
@@ -29,7 +30,13 @@
 
 ***
 
-## 2020: Medcuty
+### 2020-Present: Aigen
+* [Aigen](https://https://aigencorp.com): Wordpress
+* aiKMS system that can upload data from muti sources (files, webs) and find instantly.
+* Chatbots of MTL create backend to upload data.
+* MTL Cashier create OCR read bill from bank credit cards: Terrasect
+
+### 2020: Medcuty
 * Developer in Bumrungrad hospital's Keyoniq project that receive information for lab result and questionnaire to consulting doctor for health of clients. This use .NET core, Angular, SQL Server, MongoDB and Azure Cloud.
 * DevOps in Princ Health Care. Migrating system from iNET to Huawei Cloud.
 * Investigate problems of Centric system (HIS) - Node, React, Mongodb
@@ -113,7 +120,7 @@ My role is developer (One man team)
 * Account System: Worked with AS400, DBII, COBOL and PHP for SOAP.
 
 ***
-### 2005: Phuket Immigration 
+### 2005: Phuket Immigration
 My role is developer (One man team)
 * Hotel check-in/check-out system by immigration law
     * C# .NET
