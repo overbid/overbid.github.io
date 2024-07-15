@@ -3,7 +3,7 @@
 - [About Me](#about-me)
   - [About Me](#about-me-1)
   - [Work Experience](#work-experience)
-    - [2020-Present: Aigen](#2020-present-aigen)
+    - [2020-2023: Aigen](#2020-present-aigen)
     - [2019: Medcuty](#2019-medcuty)
     - [2018-2019: Freelance](#2018-2019-freelance)
     - [2017-2018: People Plus Software](#2017-2018-people-plus-software)
@@ -30,7 +30,7 @@
 
 ***
 
-### 2020-Present: Aigen
+### 2020-2023: Aigen
 
 - [aiKMS](https://aigencorp.com/ai-powered-knowledge-management-solution-kms): System that can upload data from multiple sources (files, webs) and find instantly.
 - [Chatbots of MTL](https://aigencorp.com/ai-powered-chatbot-solution): Create a backend to convert to vectors and save to Elasticsearch using Airflow.
