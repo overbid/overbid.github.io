@@ -3,8 +3,8 @@
 - [About Me](#about-me)
   - [About Me](#about-me-1)
   - [Work Experience](#work-experience)
-    - [2020-2023: Aigen](#2020-present-aigen)
-    - [2019: Medcuty](#2019-medcuty)
+    - [2021-2023: Aigen](#2020-present-aigen)
+    - [2020: Medcuty](#2019-medcuty)
     - [2018-2019: Freelance](#2018-2019-freelance)
     - [2017-2018: People Plus Software](#2017-2018-people-plus-software)
     - [2014-2016: Guru Square (Siam Guru)](#2014-2016-guru-square-siam-guru)
@@ -30,7 +30,7 @@
 
 ***
 
-### 2020-2023: Aigen
+### 2021-2023: Aigen
 
 - [aiKMS](https://aigencorp.com/ai-powered-knowledge-management-solution-kms): System that can upload data from multiple sources (files, webs) and find instantly.
 - [Chatbots of MTL](https://aigencorp.com/ai-powered-chatbot-solution): Create a backend to convert to vectors and save to Elasticsearch using Airflow.
@@ -41,7 +41,7 @@
 - Create deploy script of APIs from AWS to standalone system.
 - [Aigen](https://https://aigencorp.com): Company website using MySQL, PHP and Wordpress.
 
-### 2019: Medcuty
+### 2020: Medcuty
 
 - Developer in Bumrungrad hospital's Keyoniq project that receives information for lab results and questionnaires to consulting doctors for the health of clients. This using SQL Server, MongoDB, .NET core, Angular.
 - DevOps in Princ Health Care. Migrating system from iNET to Huawei Cloud.
